@@ -1,0 +1,8 @@
+D:\WorkSpace\WorkSpaceDA\ToyStore\DTO\bin\Debug\DTO.dll
+D:\WorkSpace\WorkSpaceDA\ToyStore\DTO\bin\Debug\DTO.pdb
+D:\WorkSpace\WorkSpaceDA\ToyStore\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WorkSpaceDA\ToyStore\DTO\obj\Debug\DTO.dll
+D:\WorkSpace\WorkSpaceDA\ToyStore\DTO\obj\Debug\DTO.pdb
+D:\WorkSpace\WorkSpaceDA\ToyStore\DTO\bin\Debug\System.Data.SqlClient.dll
+D:\WorkSpace\WorkSpaceDA\ToyStore\DTO\bin\Debug\System.Data.SqlClient.xml
+D:\WorkSpace\WorkSpaceDA\ToyStore\DTO\obj\Debug\DTO.csproj.CopyComplete
